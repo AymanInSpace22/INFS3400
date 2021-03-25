@@ -1,0 +1,13 @@
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\ConsoleApp4.exe
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\ConsoleApp4.deps.json
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\ConsoleApp4.runtimeconfig.json
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\ConsoleApp4.runtimeconfig.dev.json
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\ConsoleApp4.dll
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\ConsoleApp4.pdb
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\ConsoleApp4.csprojAssemblyReference.cache
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\ConsoleApp4.AssemblyInfoInputs.cache
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\ConsoleApp4.AssemblyInfo.cs
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\ConsoleApp4.dll
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\ConsoleApp4.pdb
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\ConsoleApp4.genruntimeconfig.cache

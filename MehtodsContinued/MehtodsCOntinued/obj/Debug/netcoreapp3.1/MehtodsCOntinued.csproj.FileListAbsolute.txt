@@ -1,0 +1,13 @@
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\MehtodsCOntinued\MehtodsCOntinued\bin\Debug\netcoreapp3.1\MehtodsCOntinued.exe
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\MehtodsCOntinued\MehtodsCOntinued\bin\Debug\netcoreapp3.1\MehtodsCOntinued.deps.json
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\MehtodsCOntinued\MehtodsCOntinued\bin\Debug\netcoreapp3.1\MehtodsCOntinued.runtimeconfig.json
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\MehtodsCOntinued\MehtodsCOntinued\bin\Debug\netcoreapp3.1\MehtodsCOntinued.runtimeconfig.dev.json
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\MehtodsCOntinued\MehtodsCOntinued\bin\Debug\netcoreapp3.1\MehtodsCOntinued.dll
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\MehtodsCOntinued\MehtodsCOntinued\bin\Debug\netcoreapp3.1\MehtodsCOntinued.pdb
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\MehtodsCOntinued\MehtodsCOntinued\obj\Debug\netcoreapp3.1\MehtodsCOntinued.csprojAssemblyReference.cache
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\MehtodsCOntinued\MehtodsCOntinued\obj\Debug\netcoreapp3.1\MehtodsCOntinued.AssemblyInfoInputs.cache
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\MehtodsCOntinued\MehtodsCOntinued\obj\Debug\netcoreapp3.1\MehtodsCOntinued.AssemblyInfo.cs
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\MehtodsCOntinued\MehtodsCOntinued\obj\Debug\netcoreapp3.1\MehtodsCOntinued.csproj.CoreCompileInputs.cache
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\MehtodsCOntinued\MehtodsCOntinued\obj\Debug\netcoreapp3.1\MehtodsCOntinued.dll
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\MehtodsCOntinued\MehtodsCOntinued\obj\Debug\netcoreapp3.1\MehtodsCOntinued.pdb
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\MehtodsCOntinued\MehtodsCOntinued\obj\Debug\netcoreapp3.1\MehtodsCOntinued.genruntimeconfig.cache

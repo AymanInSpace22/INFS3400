@@ -1,0 +1,13 @@
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\WizardProject\WizardProject\bin\Debug\netcoreapp3.1\WizardProject.exe
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\WizardProject\WizardProject\bin\Debug\netcoreapp3.1\WizardProject.deps.json
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\WizardProject\WizardProject\bin\Debug\netcoreapp3.1\WizardProject.runtimeconfig.json
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\WizardProject\WizardProject\bin\Debug\netcoreapp3.1\WizardProject.runtimeconfig.dev.json
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\WizardProject\WizardProject\bin\Debug\netcoreapp3.1\WizardProject.dll
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\WizardProject\WizardProject\bin\Debug\netcoreapp3.1\WizardProject.pdb
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\WizardProject\WizardProject\obj\Debug\netcoreapp3.1\WizardProject.csprojAssemblyReference.cache
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\WizardProject\WizardProject\obj\Debug\netcoreapp3.1\WizardProject.AssemblyInfoInputs.cache
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\WizardProject\WizardProject\obj\Debug\netcoreapp3.1\WizardProject.AssemblyInfo.cs
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\WizardProject\WizardProject\obj\Debug\netcoreapp3.1\WizardProject.csproj.CoreCompileInputs.cache
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\WizardProject\WizardProject\obj\Debug\netcoreapp3.1\WizardProject.dll
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\WizardProject\WizardProject\obj\Debug\netcoreapp3.1\WizardProject.pdb
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\WizardProject\WizardProject\obj\Debug\netcoreapp3.1\WizardProject.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\Base_Abstract_Interfaces_Extension\Base_Abstract_Interfaces_Extension\bin\Debug\netcoreapp3.1\Base_Abstract_Interfaces_Extension.exe
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\Base_Abstract_Interfaces_Extension\Base_Abstract_Interfaces_Extension\bin\Debug\netcoreapp3.1\Base_Abstract_Interfaces_Extension.deps.json
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\Base_Abstract_Interfaces_Extension\Base_Abstract_Interfaces_Extension\bin\Debug\netcoreapp3.1\Base_Abstract_Interfaces_Extension.runtimeconfig.json
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\Base_Abstract_Interfaces_Extension\Base_Abstract_Interfaces_Extension\bin\Debug\netcoreapp3.1\Base_Abstract_Interfaces_Extension.runtimeconfig.dev.json
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\Base_Abstract_Interfaces_Extension\Base_Abstract_Interfaces_Extension\bin\Debug\netcoreapp3.1\Base_Abstract_Interfaces_Extension.dll
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\Base_Abstract_Interfaces_Extension\Base_Abstract_Interfaces_Extension\bin\Debug\netcoreapp3.1\Base_Abstract_Interfaces_Extension.pdb
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\Base_Abstract_Interfaces_Extension\Base_Abstract_Interfaces_Extension\obj\Debug\netcoreapp3.1\Base_Abstract_Interfaces_Extension.csprojAssemblyReference.cache
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\Base_Abstract_Interfaces_Extension\Base_Abstract_Interfaces_Extension\obj\Debug\netcoreapp3.1\Base_Abstract_Interfaces_Extension.AssemblyInfoInputs.cache
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\Base_Abstract_Interfaces_Extension\Base_Abstract_Interfaces_Extension\obj\Debug\netcoreapp3.1\Base_Abstract_Interfaces_Extension.AssemblyInfo.cs
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\Base_Abstract_Interfaces_Extension\Base_Abstract_Interfaces_Extension\obj\Debug\netcoreapp3.1\Base_Abstract_Interfaces_Extension.csproj.CoreCompileInputs.cache
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\Base_Abstract_Interfaces_Extension\Base_Abstract_Interfaces_Extension\obj\Debug\netcoreapp3.1\Base_Abstract_Interfaces_Extension.dll
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\Base_Abstract_Interfaces_Extension\Base_Abstract_Interfaces_Extension\obj\Debug\netcoreapp3.1\Base_Abstract_Interfaces_Extension.pdb
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\Base_Abstract_Interfaces_Extension\Base_Abstract_Interfaces_Extension\obj\Debug\netcoreapp3.1\Base_Abstract_Interfaces_Extension.genruntimeconfig.cache

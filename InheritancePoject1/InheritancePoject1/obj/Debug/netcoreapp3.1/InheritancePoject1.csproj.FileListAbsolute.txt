@@ -1,0 +1,13 @@
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\InheritancePoject1\InheritancePoject1\bin\Debug\netcoreapp3.1\InheritancePoject1.exe
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\InheritancePoject1\InheritancePoject1\bin\Debug\netcoreapp3.1\InheritancePoject1.deps.json
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\InheritancePoject1\InheritancePoject1\bin\Debug\netcoreapp3.1\InheritancePoject1.runtimeconfig.json
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\InheritancePoject1\InheritancePoject1\bin\Debug\netcoreapp3.1\InheritancePoject1.runtimeconfig.dev.json
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\InheritancePoject1\InheritancePoject1\bin\Debug\netcoreapp3.1\InheritancePoject1.dll
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\InheritancePoject1\InheritancePoject1\bin\Debug\netcoreapp3.1\InheritancePoject1.pdb
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\InheritancePoject1\InheritancePoject1\obj\Debug\netcoreapp3.1\InheritancePoject1.csprojAssemblyReference.cache
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\InheritancePoject1\InheritancePoject1\obj\Debug\netcoreapp3.1\InheritancePoject1.AssemblyInfoInputs.cache
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\InheritancePoject1\InheritancePoject1\obj\Debug\netcoreapp3.1\InheritancePoject1.AssemblyInfo.cs
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\InheritancePoject1\InheritancePoject1\obj\Debug\netcoreapp3.1\InheritancePoject1.csproj.CoreCompileInputs.cache
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\InheritancePoject1\InheritancePoject1\obj\Debug\netcoreapp3.1\InheritancePoject1.dll
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\InheritancePoject1\InheritancePoject1\obj\Debug\netcoreapp3.1\InheritancePoject1.pdb
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\InheritancePoject1\InheritancePoject1\obj\Debug\netcoreapp3.1\InheritancePoject1.genruntimeconfig.cache

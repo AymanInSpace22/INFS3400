@@ -1,0 +1,13 @@
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\SimilarTo10-1\SimilarTo10-1\bin\Debug\netcoreapp3.1\SimilarTo10-1.exe
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\SimilarTo10-1\SimilarTo10-1\bin\Debug\netcoreapp3.1\SimilarTo10-1.deps.json
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\SimilarTo10-1\SimilarTo10-1\bin\Debug\netcoreapp3.1\SimilarTo10-1.runtimeconfig.json
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\SimilarTo10-1\SimilarTo10-1\bin\Debug\netcoreapp3.1\SimilarTo10-1.runtimeconfig.dev.json
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\SimilarTo10-1\SimilarTo10-1\bin\Debug\netcoreapp3.1\SimilarTo10-1.dll
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\SimilarTo10-1\SimilarTo10-1\bin\Debug\netcoreapp3.1\SimilarTo10-1.pdb
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\SimilarTo10-1\SimilarTo10-1\obj\Debug\netcoreapp3.1\SimilarTo10-1.csprojAssemblyReference.cache
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\SimilarTo10-1\SimilarTo10-1\obj\Debug\netcoreapp3.1\SimilarTo10-1.AssemblyInfoInputs.cache
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\SimilarTo10-1\SimilarTo10-1\obj\Debug\netcoreapp3.1\SimilarTo10-1.AssemblyInfo.cs
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\SimilarTo10-1\SimilarTo10-1\obj\Debug\netcoreapp3.1\SimilarTo10-1.csproj.CoreCompileInputs.cache
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\SimilarTo10-1\SimilarTo10-1\obj\Debug\netcoreapp3.1\SimilarTo10-1.dll
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\SimilarTo10-1\SimilarTo10-1\obj\Debug\netcoreapp3.1\SimilarTo10-1.pdb
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\SimilarTo10-1\SimilarTo10-1\obj\Debug\netcoreapp3.1\SimilarTo10-1.genruntimeconfig.cache

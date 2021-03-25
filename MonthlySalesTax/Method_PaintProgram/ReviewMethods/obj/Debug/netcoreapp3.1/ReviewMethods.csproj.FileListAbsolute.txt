@@ -1,0 +1,13 @@
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\ReviewMethods\ReviewMethods\bin\Debug\netcoreapp3.1\ReviewMethods.exe
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\ReviewMethods\ReviewMethods\bin\Debug\netcoreapp3.1\ReviewMethods.deps.json
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\ReviewMethods\ReviewMethods\bin\Debug\netcoreapp3.1\ReviewMethods.runtimeconfig.json
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\ReviewMethods\ReviewMethods\bin\Debug\netcoreapp3.1\ReviewMethods.runtimeconfig.dev.json
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\ReviewMethods\ReviewMethods\bin\Debug\netcoreapp3.1\ReviewMethods.dll
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\ReviewMethods\ReviewMethods\bin\Debug\netcoreapp3.1\ReviewMethods.pdb
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\ReviewMethods\ReviewMethods\obj\Debug\netcoreapp3.1\ReviewMethods.csprojAssemblyReference.cache
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\ReviewMethods\ReviewMethods\obj\Debug\netcoreapp3.1\ReviewMethods.AssemblyInfoInputs.cache
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\ReviewMethods\ReviewMethods\obj\Debug\netcoreapp3.1\ReviewMethods.AssemblyInfo.cs
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\ReviewMethods\ReviewMethods\obj\Debug\netcoreapp3.1\ReviewMethods.csproj.CoreCompileInputs.cache
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\ReviewMethods\ReviewMethods\obj\Debug\netcoreapp3.1\ReviewMethods.dll
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\ReviewMethods\ReviewMethods\obj\Debug\netcoreapp3.1\ReviewMethods.pdb
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\ReviewMethods\ReviewMethods\obj\Debug\netcoreapp3.1\ReviewMethods.genruntimeconfig.cache

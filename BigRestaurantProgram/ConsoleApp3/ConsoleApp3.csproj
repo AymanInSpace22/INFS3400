@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\ConsoleApp3\9-3_RestrauntProgram.cs" Link="9-3_RestrauntProgram.cs" />
+  </ItemGroup>
+
+</Project>

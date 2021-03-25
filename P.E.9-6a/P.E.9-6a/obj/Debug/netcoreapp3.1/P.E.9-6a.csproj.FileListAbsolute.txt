@@ -1,0 +1,13 @@
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\P.E.9-6a\P.E.9-6a\bin\Debug\netcoreapp3.1\P.E.9-6a.exe
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\P.E.9-6a\P.E.9-6a\bin\Debug\netcoreapp3.1\P.E.9-6a.deps.json
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\P.E.9-6a\P.E.9-6a\bin\Debug\netcoreapp3.1\P.E.9-6a.runtimeconfig.json
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\P.E.9-6a\P.E.9-6a\bin\Debug\netcoreapp3.1\P.E.9-6a.runtimeconfig.dev.json
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\P.E.9-6a\P.E.9-6a\bin\Debug\netcoreapp3.1\P.E.9-6a.dll
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\P.E.9-6a\P.E.9-6a\bin\Debug\netcoreapp3.1\P.E.9-6a.pdb
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\P.E.9-6a\P.E.9-6a\obj\Debug\netcoreapp3.1\P.E.9-6a.csprojAssemblyReference.cache
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\P.E.9-6a\P.E.9-6a\obj\Debug\netcoreapp3.1\P.E.9-6a.AssemblyInfoInputs.cache
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\P.E.9-6a\P.E.9-6a\obj\Debug\netcoreapp3.1\P.E.9-6a.AssemblyInfo.cs
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\P.E.9-6a\P.E.9-6a\obj\Debug\netcoreapp3.1\P.E.9-6a.csproj.CoreCompileInputs.cache
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\P.E.9-6a\P.E.9-6a\obj\Debug\netcoreapp3.1\P.E.9-6a.dll
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\P.E.9-6a\P.E.9-6a\obj\Debug\netcoreapp3.1\P.E.9-6a.pdb
+C:\Users\boula\OneDrive\Documents\INFS 3400 OOP\P.E.9-6a\P.E.9-6a\obj\Debug\netcoreapp3.1\P.E.9-6a.genruntimeconfig.cache
